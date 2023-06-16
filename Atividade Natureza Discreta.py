@@ -44,7 +44,7 @@ implicam em perda de pontos como pode ser visto na rubrica de avaliação consta
 Para que seu programa possa ser testado você deve criar, no mínimo, três arquivos de entrada 
 contendo um número diferente de operações, operações com dados diferentes, e operações em ordem 
 '''
-arquivo = open("operacoes.txt")
+arquivo = open("operacoes1.txt")
 numbop = int(arquivo.readline(1))
 numb = 0
 
